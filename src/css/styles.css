@@ -57,3 +57,14 @@
 .timer button {
   padding: 5px 10px;
 }
+
+.form {
+  margin-top: 15px;
+  max-width: 400px;
+}
+
+.submit {
+  margin-top: 15px;
+  width: 400px;
+}
+
